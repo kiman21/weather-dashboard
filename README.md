@@ -11,6 +11,7 @@ N/A
 ## Usage
 
 To use the application, type a city name into the search bar. The application will then display the temperature, humidity, uv-index, and wind-speed from a searched city and a 5 day forecast from the same city. Previous searches will populate under the search bar.
+https://kiman21.github.io/weather-dashboard/
 
 ## Credits
 .https://openweathermap.org/api
